@@ -1,0 +1,2 @@
+# Stategy
+My first Repository
