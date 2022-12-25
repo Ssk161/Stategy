@@ -13,5 +13,12 @@ b=a-b
 a=a-b
 print("after sorting",a,b)
 
+#pattern programmes
+n=int(input())          
+for i in range(1,n+1):
+    for j in range(0,i):
+        print("* ")
+    print()
+
 
 
